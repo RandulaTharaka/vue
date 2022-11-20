@@ -9,7 +9,11 @@
   <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat"></a>
 </p>
 
+
 Hi I am Randula Tharaka MMM.
+
+Hi I am Randula TM
+
 
 ## This repo is for Vue 2
 
